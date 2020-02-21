@@ -1,4 +1,4 @@
-#Popis projektu
+# Popis projektu
 Cílem řešeného projektu je návrh a implementace relační databáze na zvolené téma.
 Je možné pokračovat na projektu z předmětu IUS. Pokud se studenti rozhodnou v projektu z IUS nepokračovat, pak si příslušné téma dvojice vybere ze [https://www.fit.vutbr.cz/study/courses/IDS/private/temata.html seznamu témat].
 
